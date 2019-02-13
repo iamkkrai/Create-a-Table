@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bordered Table</title>
+<style>
+table,td,th{
+border: 1px solid red;
+text-align: center;
+color: green;
+margin: 5px;
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
+<tr>
+<th>first name</th>
+<th>last name</th>
+<th>age</th>
+</tr>
+<tr>
+<td>ram</td>
+<td>kumar</td>
+<td>20</td>
+</tr>
+<tr>
+<td>ram</td>
+<td>kumar</td>
+<td>20</td>
+</tr>
+<tr>
+<td>ram</td>
+<td>kumar</td>
+<td>20</td>
+</tr>
+<tr>
+<td>ram</td>
+<td>kumar</td>
+<td>20</td>
+</tr>
+<tr>
+<td>ram</td>
+<td>kumar</td>
+<td>20</td>
+</tr>
+</table>
+</body>
+</html>
